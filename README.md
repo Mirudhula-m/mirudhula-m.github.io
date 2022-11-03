@@ -2,7 +2,7 @@
 
 
 
-If you want to fork this repo for your personal use, do the following:
+If you want to use this template, do the following:
 
 ## Hydejack Starter Kit
 
