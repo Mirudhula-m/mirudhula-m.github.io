@@ -1,3 +1,9 @@
+# Personal Website
+
+
+
+If you want to fork this repo for your personal use, do the following:
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
