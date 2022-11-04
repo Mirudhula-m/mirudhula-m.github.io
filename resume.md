@@ -100,15 +100,14 @@ hide_description: true
 
 
 <span style="color:gray">October 2022 - Present</span><br>
-**Common Signatures between Severe Asthma and Lung Cancer**<br>
+**[Common Signatures between Severe Asthma and Lung Cancer](../assets/project_reports/signatures.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Implementing Gene Set Enrichment Analysis on data from GEO, to identify common signatures.
 * Validating results by classifying a separate lung cancer dataset using Decision Trees.
 
 <span style="color:gray">September 2022 - Present</span><br>
-**Simulating sequence evolution for in silico
-experimentation**<br>
+**[Simulating sequence evolution for in-silico experimentation](../assets/project_reports/simulations.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Developing a simulation of bacterial transcription, translation, fitness, selection and mutation.
@@ -118,7 +117,7 @@ experimentation**<br>
 
 
 <span style="color:gray">February 2022 - March 2022</span><br>
-**Classification of Glioma**<br>
+**[Classification of Glioma](../assets/project_reports/glioma.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Processed gene expression data from TCGA to classify glioma subtypes.
