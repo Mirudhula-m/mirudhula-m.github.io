@@ -23,12 +23,12 @@ title:                 Mirudhula Mukundan
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Computational Biologist. Artist.
+# description:           >
+  # Computational Biologist. Artist.
 
 # A shorter description for the sidebar.
-tagline:               >
-  Computational Biologist. Artist.
+# tagline:               >
+  # Computational Biologist. Artist.
 
 # A list of keywords for your blog
 keywords:              []
@@ -57,8 +57,12 @@ menu:
     url:               /resume/
   - title:             Projects
     url:               /projects/
+  - title:             Blog
+    url:               /#_navigation/
   - title:             About
     url:               /about/
+  # - title:             Old posts
+    # url:               /posts/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

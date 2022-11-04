@@ -88,6 +88,71 @@ hide_description: true
 * Employed sequence-to-sequence and character-based encoder-decoder model.
 
 
+## **Projects**
+
+<span style="color:gray">September 2022 - Present</span><br>
+**A single cell RNA-seq based aging clock for human neurons**
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Identifying key gene expression representations for efficient prediction of patient age.
+* Implementing Multi-layer Perceptron with Variational Autoencoder for dimensionality reduction using Pytorch.
+* This is a team project with three members, where the other two are responsible for implementing Non-negative Matrix Factorization and De-noising Autoencoders for the same data.
+
+
+<span style="color:gray">October 2022 - Present</span><br>
+**Common Signatures between Severe Asthma and Lung Cancer**
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Implementing Gene Set Enrichment Analysis on data from GEO, to identify common signatures.
+* Validating results by classifying a separate lung cancer dataset using Decision Trees.
+
+<span style="color:gray">September 2022 - Present</span><br>
+**Simulating sequence evolution for in silico
+experimentation**
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Developing a simulation of bacterial transcription, translation, fitness, selection and mutation.
+* This is a team project with five members, each responsible for one of the five steps mentioned above.
+* Responsible for the mutation step, where a mutation is programmatically induced at random positions, sampled from a uniform distribution.
+* Responsible for an extended study where mutation rates are optimized according to changes in fitness of bacteria.
+
+
+<span style="color:gray">February 2022 - March 2022</span><br>
+**Classification of Glioma**
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Processed gene expression data from TCGA to classify glioma subtypes.
+* Employed Gaussian Naive Bayes and Support Vector Machine to model the data
+* Validated the results with a 5-fold cross-validation and achieved over 85% accuracy.
+
+
+<span style="color:gray">October 2021 - November 2021</span><br>
+**Natural Selection Simulator**
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Developed a graphical game-like simulator to observe selection over several generations.
+
+
+<span style="color:gray">October 2021 - November 2021</span><br>
+**Natural Selection Simulator**
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Developed a graphical game-like simulator to observe selection over several generations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
