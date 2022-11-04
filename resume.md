@@ -21,7 +21,12 @@ hide_description: true
 
 [PDF](../assets/Resume.pdf)
 
-[Email](mailto:mirudhula.tm@gmail.com) | [Linkedin](https://www.linkedin.com/in/mirudhula/) | [Website](https://mirudhula-m.github.io) | [Github](https://github.com/Mirudhula-m)
+[Email](mailto:mirudhula.tm@gmail.com) |
+<a href="https://www.linkedin.com/in/mirudhula/" target="_blank">Linkedin</a> |
+<a href="https://mirudhula-m.github.io" target="_blank">Website</a> |
+<a href="https://github.com/Mirudhula-m" target="_blank">Github</a>
+
+
 
 
 ## **Education** 
