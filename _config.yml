@@ -46,6 +46,10 @@ author:
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
     github:             Mirudhula-m
+    email:              mirudhula.tm@gmail.com
+
+# Adding a favicon
+favicon: /assets/icons/my_favicon.ico
 
 # Add links to the sidebar.
 menu:
@@ -80,7 +84,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(40, 27, 107)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
