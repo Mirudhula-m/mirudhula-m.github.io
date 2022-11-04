@@ -16,9 +16,22 @@ description: >
 hide_description: true
 
 # TODO
-image: /assets/img/blog/hydejack-8.png
+# image: /assets/img/blog/hydejack-8.png
 ---
 
+### **Hi, there! You just landed on my website.**
+
+I am currently a Master's student at Carnegie Mellon University, Pittsburgh, studying Computational Biology. My interests lie in modeling and analyzing various biological data, from to gene sequence to gene expression to phenotypic expression. In particular, I really like implementing different Machine/Deep Learning techniques on such data to see how they would help us analyze these large (and often noisy) datasets.
+
+In addition to this, I am also intrigued by the field of Computational Neuroscience. Some of my earliest research exprerience in my undergraduate program in Biotechnology, involved conducting human behavior experiments and analyzing EEG data to understand attention and working memory. This got me hooked on to exploring how most, if not all, deep learning techniques are inspired by the brain. 
+
+In future, I would love to extend my interests on how I can create more biologically-inspired algorithms, that are not only based on the workings of the brain but also the mechanisms involved during gene expression, protein evolution or immune evasion, as I think they are some great topics that can be bring-forth innovation in both deep learning architectures and algorithm design.
+
+Please check out my [resume](assets/Resume.pdf) and feel free to reach out to me!
+
+
+
+<!--
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
@@ -57,13 +70,13 @@ There are two versions of **Hydejack**: The base version is free, while features
 ## A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
-<!--posts-->
+# posts
 
 
 ## An Impressive Portfolio
 A portfolio that's guaranteed to be impressive — no matter what you put into it.
 
-<!--projects-->
+# projects
 
 
 ## A Printable Resume
@@ -195,3 +208,4 @@ This table below shows what's included in each version:
 [tinyletter]: https://tinyletter.com/
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+-->

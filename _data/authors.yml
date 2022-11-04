@@ -26,10 +26,11 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         jekyllrb
-    github:          qwtel/hydejack
+    # twitter:         jekyllrb
+    linkedin:        https://www.linkedin.com/in/mirudhula/
+    github:          Mirudhula-m
+    email:           mirudhula.tm@gmail.com
     # download:        <url>
-    # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
