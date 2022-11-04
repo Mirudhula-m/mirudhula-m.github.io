@@ -133,15 +133,20 @@ experimentation**
 * Developed a graphical game-like simulator to observe selection over several generations.
 
 
-<span style="color:gray">October 2021 - November 2021</span><br>
-**Natural Selection Simulator**
-*Carnegie Mellon University, Pittsburgh, USA*
+<span style="color:gray">September 2016 - October 2016</span><br>
+**Hit-and-score graphical game**
+*PES University, Bangalore, India*
 
-* Developed a graphical game-like simulator to observe selection over several generations.
+* Designed the graphics of the game on Python using the Pygame library.
+* Developed a shooting game that requires the player to shoot a moving object on the screen to increase the score.
 
 
+<span style="color:gray">September 2016 - October 2016</span><br>
+**Robot arm using Arduino**
+*PES University, Bangalore, India*
 
-
+* Equipped the robot arm with a camera, which was programmed to identify an object of a specific color and dimension with the help of OpenCV library. 
+* Upon detection, the arm grabs the object.
 
 
 
