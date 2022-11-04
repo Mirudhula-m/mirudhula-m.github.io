@@ -19,7 +19,7 @@ hide_description: true
 # image: /assets/img/blog/hydejack-8.png
 ---
 
-[PDF](assets/Resume.pdf)
+[PDF](../assets/Resume.pdf)
 
 [Email](mailto:mirudhula.tm@gmail.com) | [Linkedin](https://www.linkedin.com/in/mirudhula/) | [Website](https://mirudhula-m.github.io) | [Github](https://github.com/Mirudhula-m)
 
@@ -91,7 +91,7 @@ hide_description: true
 ## **Projects**
 
 <span style="color:gray">September 2022 - Present</span><br>
-**[A single cell RNA-seq based aging clock for human neurons](assets/project_reports/IDL_project)**<br>
+**[A single cell RNA-seq based aging clock for human neurons](../assets/project_reports/predict_age.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Identifying key gene expression representations for efficient prediction of patient age.
