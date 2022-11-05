@@ -49,7 +49,7 @@ author:
     # email:              mirudhula.tm@gmail.com
 
 # Adding a favicon
-# favicon: /assets/icons/my_favicon.ico
+favicon:                  /assets/icons/favicon.png
 
 # Add links to the sidebar.
 menu:
