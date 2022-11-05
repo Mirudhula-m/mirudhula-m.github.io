@@ -19,7 +19,10 @@ hide_description: true
 # image: /assets/img/blog/hydejack-8.png
 ---
 
+<img src="../assets/img/cat_hi.gif" alt="cat_hi" style="width:150px;"/>
+
 ### **Hi, there! You just landed on my website.**
+<!-- ![cat_hi.gif](../assets/img/cat_hi.gif) -->
 
 I am currently a Master's student at Carnegie Mellon University, Pittsburgh, studying Computational Biology. My interests lie in modeling and analyzing various biological data, from to gene sequence to gene expression to phenotypic expression. In particular, I really like implementing different Machine/Deep Learning techniques on such data to see how they would help us analyze these large (and often noisy) datasets.
 
