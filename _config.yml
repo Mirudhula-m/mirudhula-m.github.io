@@ -50,6 +50,7 @@ author:
 
 # Adding a favicon
 favicon:                  /assets/icons/favicon.png
+apple_touch_icon:         /assets/icons/logo.png
 
 # Add links to the sidebar.
 menu:

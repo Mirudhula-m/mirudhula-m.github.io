@@ -2,16 +2,18 @@
 layout: post
 title: How I created my personal website
 description: >
-# Some notes, tips and tricks on how you can create a website the way I did.
+  Some notes, tips and tricks on how you can create a website the way I did.
 
-# hide_description: true
+hide_description: false
 
 noindex: true
 ---
 
-I primarily worked with Jekyll templates and Ruby. I forked an amazing template by Florian, who also goes by [@qwtel](https://qwtel.com) from the GitHub repository [here](https://github.com/hydecorp/hydejack). So, I extend my special thanks to the creator of the template, Hydejack!
+<img src="../assets/img/giphy.gif" alt="giphy" style="width:200px;"/>
 
-![giphy.gif](../assets/img/giphy.gif)
+I primarily worked with Jekyll templates and Ruby. I forked an amazing template made by Florian, who also goes by [@qwtel](https://qwtel.com) from the GitHub repository [here](https://github.com/hydecorp/hydejack). So, I extend my special thanks to the creator of the template, Hydejack!
+
+<!-- ![giphy.gif](../assets/img/giphy.gif) -->
 
 
 
