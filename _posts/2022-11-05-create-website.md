@@ -19,7 +19,7 @@ I primarily worked with Jekyll templates and Ruby. I forked an amazing template 
 
 At the beginning, I did seem to struggle a bit to make the template work when hosting it on GitHub pages. It felt like I followed most of the instructions but I seemed to be able to make it work locally but not after deployment. I tried out other templates which did not seem to have this problem, but decided to stick with the hydejack template due to design choice.
 
-Most of the instructions are already provided by Florian on the main website, so I will try to pick out points and consolidate the details that are required to make a website on GitHub pages smoothly. I will try to make this small and concise with only the necessary resources. Expand the toggle for more details.
+Most of the instructions are already provided by Florian on the main website, so I will try to pick out points and consolidate the details that are required to make a website on GitHub pages smoothly. I will try to make this small and concise with only the necessary resources.
 
 ### Install Jekyll and Ruby**:**
 
