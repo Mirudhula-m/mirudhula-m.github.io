@@ -96,7 +96,7 @@ hide_description: true
 ## **Projects**
 
 <span style="color:gray">September 2022 - Present</span><br>
-**[A single cell RNA-seq based aging clock for human neurons](../assets/project_reports/predict_age.pdf)**<br>
+**[A single cell RNA-seq based aging clock for human neurons](../assets/project_reports/predict_age_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Identifying key gene expression representations for efficient prediction of patient age.
