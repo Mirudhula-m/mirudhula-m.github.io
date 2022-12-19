@@ -105,7 +105,7 @@ hide_description: true
 
 
 <span style="color:gray">October 2022 - Present</span><br>
-**[Common Signatures between Severe Asthma and Lung Cancer](../assets/project_reports/signatures.pdf)**<br>
+**[Common Signatures between Severe Asthma and Lung Cancer](../assets/project_reports/signatures_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Implementing Gene Set Enrichment Analysis on data from GEO, to identify common signatures.
