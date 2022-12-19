@@ -112,7 +112,7 @@ hide_description: true
 * Validating results by classifying a separate lung cancer dataset using Decision Trees.
 
 <span style="color:gray">September 2022 - Present</span><br>
-**[Simulating sequence evolution for in-silico experimentation](../assets/project_reports/simulations.pdf)**<br>
+**[Simulating sequence evolution for in-silico experimentation](../assets/project_reports/simulations_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
 * Developing a simulation of bacterial transcription, translation, fitness, selection and mutation.
