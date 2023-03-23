@@ -47,13 +47,17 @@ hide_description: true
 <br>Python, Go, C, Java, R, MATLAB
 
 **Frameworks**
-<br>Pytorch, Skorch, Scikit-learn
+<br>Pytorch, Tensorflow, Keras, Skorch, Scikit-learn
 
 **Web Development**
-<br>HTML, Javascript, CSS, 
+<br>HTML, Javascript, CSS
+
+**Database Management**
+<br>PostgreSQL
 
 **Tools**
 <br>Git, AWS Cloud
+
 
 
 ## **Experience**
@@ -163,6 +167,18 @@ hide_description: true
 
 * Designed the graphics of the game on Python using the Pygame library.
 * Developed a shooting game that requires the player to shoot a moving object on the screen to increase the score.
+
+
+## **Relevant Coursework**
+
+**Carnegie Mellon University**
+
+<br> 10617: Intermediate Deep Learning, 10725: Convex Optimization, 02613: Algorithms & Advanced Data Structures, 02620: Machine Learning, 02750: Automation Science, 03713: Bioinformatics Data Practicum
+
+**PES University**
+
+<br> Data Structures, Design and Analysis of Algorithms, Database Management Systems, Operating Systems, Molecular Modeling and Simulation
+
 
 
 
