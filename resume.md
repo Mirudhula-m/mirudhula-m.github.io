@@ -38,7 +38,8 @@ hide_description: true
 
 <span style="color:gray">August 2016 - May 2020</span><br>
 **PES University**, *Bangalore, India*
-<br>Bachelor of Technology in Biotechnology
+<br>Bachelor of Technology in Biotechnology (Major)
+<br>Bachelor of Technology in Computer Science (Minor)
 
 
 ## **Skills**
