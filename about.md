@@ -32,6 +32,20 @@ In future, I would love to extend my interests on how I can create more biologic
 
 Please check out my [resume](assets/Resume.pdf) and feel free to reach out to me!
 
+~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~
+
+Here is a poem for you in case you are in the mood;
+
+Welcome to my online lair,
+A place where I showcase my flair,
+My work is here for all to see,
+And hopefully, it will make you happy,
+So take a look around and stay a while,
+I promise it won't make you feel senile,
+And if you like what you see,
+Don't hesitate to hire me!
+
+
 
 
 <!--
