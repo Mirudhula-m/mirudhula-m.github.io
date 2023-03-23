@@ -95,6 +95,21 @@ hide_description: true
 
 ## **Projects**
 
+<span style="color:gray">March 2023 - Present</span><br>**[An Active Learning Approach to Predicting Potency of Small Molecules for Antibacterial Screening](../assets/project_reports/automation_proposal.pdf)**<br>
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Predicting potency of small molecules on Burkholderia cenocepacia using active machine learning techniques, using SMILES data.
+* Implementation of active machine learning techniques like Active Deep Reinforcement Learning, A2 algorithm, Expected Model Change and Query-by-committee selection strategies.
+
+
+<span style="color:gray">March 2023 - Present</span><br>**[A Comparative Study and Improvement of Models Predicting Transcription Start Sites](../assets/project_reports/bioinfo_proposal.pdf)**<br>
+*Carnegie Mellon University, Pittsburgh, USA*
+
+* Comparison and improvement of latest TSS prediction pipelines, for better annotation of transcripts.
+* Implementation of techniques like ADAPT-CAGE, DeepTSS and DeeReCT-TSS and integrating multiple sequence data types like CAGE-seq, RNA-seq, ChIP-seq, and DNase-seq for each model.
+* Usage of STAR, HISTAT2 and MACS during pre-procesing of RNA-seq and CAGE-seq data.
+
+
 <span style="color:gray">September 2022 - November 2022</span><br>
 **[A single cell RNA-seq based aging clock for human neurons](../assets/project_reports/predict_age_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
