@@ -174,11 +174,11 @@ hide_description: true
 
 **Carnegie Mellon University**
 
-<br> 10617: Intermediate Deep Learning <br> 10725: Convex Optimization <br>  02613: Algorithms & Advanced Data Structures <br>  02620: Machine Learning <br>  02750: Automation Science <br>  03713: Bioinformatics Data Practicum
+10617: Intermediate Deep Learning <br> 10725: Convex Optimization <br>  02613: Algorithms & Advanced Data Structures <br>  02620: Machine Learning <br>  02750: Automation Science <br>  03713: Bioinformatics Data Practicum
 
 **PES University**
 
-<br> Data Structures <br>  Design and Analysis of Algorithms <br>  Database Management Systems <br>  Operating Systems <br>  Molecular Modeling and Simulation
+Data Structures <br>  Design and Analysis of Algorithms <br>  Database Management Systems <br>  Operating Systems <br>  Molecular Modeling and Simulation
 
 
 
