@@ -24,11 +24,30 @@ hide_description: true
 ### **Hi, there! You just landed on my website.**
 <!-- ![cat_hi.gif](../assets/img/cat_hi.gif) -->
 
-I am currently a Master's student at Carnegie Mellon University, Pittsburgh, studying Computational Biology. My interests lie in modeling and analyzing various biological data, from gene sequence to gene expression to phenotypic expression. In particular, I really like implementing different Machine/Deep Learning techniques on such data to see how they would help us analyze these large (and often noisy) datasets.
+As a Master's student at Carnegie Mellon University, Pittsburgh, studying Computational Biology, I am deeply fascinated by the potential of data-driven approaches to improve our understanding of complex biological and health phenomena. My primary area of interest lies in modeling and analyzing large datasets from biological and health domains, with the goal of extracting meaningful insights that can inform clinical decision-making and advance our understanding of disease mechanisms.
+
+One of the most exciting aspects of my work is applying cutting-edge Machine/Deep Learning techniques to such datasets. These techniques allow me to handle the noise and complexity inherent in biological and health data, and to uncover hidden patterns and relationships that would be difficult or impossible to discern using traditional statistical methods. I am particularly interested in exploring the potential of novel deep learning architectures, such as convolutional neural networks and recurrent neural networks, to model temporal and spatial relationships in complex biological systems.
+
+My overarching objective is to harness the power of computational biology for the development of novel diagnostic tools, therapies, and preventive measures that can significantly enhance our health outcomes and overall quality of life. As I advance in my career, I am enthusiastic about continuously exploring the intersection of biology, data science, and machine learning in this dynamic and rapidly-evolving field.
+
+Alongside my passion for computational biology, I am also deeply intrigued by the field of Computational Neuroscience. During my undergraduate program in Biotechnology, I had the opportunity to conduct human behavior experiments and analyze EEG data to investigate attention and working memory. This experience sparked my interest in exploring the connections between artificial intelligence and the human brain, and I soon realized that many of the deep learning techniques used in computational biology are inspired by the workings of the brain.
+
+Moving forward, I am excited to expand my research interests to encompass a more biologically-inspired approach to algorithm design. I believe that by incorporating insights from gene expression, protein evolution, and immune evasion mechanisms, we can develop more innovative and effective deep learning architectures. This could have far-reaching implications for fields such as drug discovery, personalized medicine, and neuroprosthetics, among others.
+
+Ultimately, my goal is to contribute to the development of a unified theory of brain function, one that brings together insights from computational biology and neuroscience to create a more comprehensive understanding of how biological systems work. By combining cutting-edge technologies with a deep appreciation for the complexity and beauty of the natural world, I am confident that we can unlock new frontiers of knowledge and transform our understanding of what is possible.
+
+
+
+
+
+
+<!-- I am currently a Master's student at Carnegie Mellon University, Pittsburgh, studying Computational Biology. My interests lie in modeling biological and health data. In particular, I really like implementing different Machine/Deep Learning techniques on such data to see how they would help us analyze these large (and often noisy) datasets. 
+
+My interests lie in modeling and analyzing various biological data, from gene sequence to gene expression to phenotypic expression. In particular, I really like implementing different Machine/Deep Learning techniques on such data to see how they would help us analyze these large (and often noisy) datasets.
 
 In addition to this, I am also intrigued by the field of Computational Neuroscience. Some of my earliest research exprerience in my undergraduate program in Biotechnology, involved conducting human behavior experiments and analyzing EEG data to understand attention and working memory. This got me hooked on to exploring how most, if not all, deep learning techniques are inspired by the brain. 
 
-In future, I would love to extend my interests on how I can create more biologically-inspired algorithms, that are not only based on the workings of the brain but also the mechanisms involved during gene expression, protein evolution or immune evasion, as I think they are some interesting processes that can be bring-forth innovation in both deep learning architectures and algorithm design.
+In future, I would love to extend my interests on how I can create more biologically-inspired algorithms, that are not only based on the workings of the brain but also the mechanisms involved during gene expression, protein evolution or immune evasion, as I think they are some interesting processes that can be bring-forth innovation in both deep learning architectures and algorithm design. -->
 
 Please check out my [resume](assets/Resume.pdf) and feel free to reach out to me!<br><br>
 
