@@ -30,19 +30,19 @@ In addition to this, I am also intrigued by the field of Computational Neuroscie
 
 In future, I would love to extend my interests on how I can create more biologically-inspired algorithms, that are not only based on the workings of the brain but also the mechanisms involved during gene expression, protein evolution or immune evasion, as I think they are some interesting processes that can be bring-forth innovation in both deep learning architectures and algorithm design.
 
-Please check out my [resume](assets/Resume.pdf) and feel free to reach out to me!
+Please check out my [resume](assets/Resume.pdf) and feel free to reach out to me!<br><br>
 
 ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~
 
 Here is a poem for you in case you are in the mood;
 
-Welcome to my online lair,
-A place where I showcase my flair,
-My work is here for all to see,
-And hopefully, it will make you happy,
-So take a look around and stay a while,
-I promise it won't make you feel senile,
-And if you like what you see,
+Welcome to my online lair,<br>
+A place where I showcase my flair,<br>
+My work is here for all to see,<br>
+And hopefully, it will make you happy,<br>
+So take a look around and stay a while,<br>
+I promise it won't make you feel senile,<br>
+And if you like what you see,<br>
 Don't hesitate to hire me!
 
 
