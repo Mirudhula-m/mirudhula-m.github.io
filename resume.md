@@ -95,30 +95,28 @@ hide_description: true
 
 ## **Projects**
 
-<span style="color:gray">September 2022 - Present</span><br>
+<span style="color:gray">September 2022 - November 2022</span><br>
 **[A single cell RNA-seq based aging clock for human neurons](../assets/project_reports/predict_age_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
-* Identifying key gene expression representations for efficient prediction of patient age.
-* Implementing Multi-layer Perceptron with Variational Autoencoder for dimensionality reduction using Pytorch.
-* This is a team project with three members, where the other two are responsible for implementing Non-negative Matrix Factorization and De-noising Autoencoders for the same data.
+* Identified latent representations for efficient prediction of patient age.
+* Developed Poisson Variational Autoencoder for efficient age prediction, which beat the baseline Multilayer Perceptron model and Standard VAE model performance with around 36% improvement.
 
 
-<span style="color:gray">October 2022 - Present</span><br>
+<span style="color:gray">October 2022 - November 2022</span><br>
 **[Common Signatures between Severe Asthma and Lung Cancer](../assets/project_reports/signatures_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
-* Implementing Gene Set Enrichment Analysis on data from GEO, to identify common signatures.
-* Validating results by classifying a separate lung cancer dataset using Decision Trees.
+* Implemented Gene Set Enrichment Analysis on data from GEO, to identify common signatures.
+* Validated results by classifying a separate lung cancer dataset using Decision Trees.
 
-<span style="color:gray">September 2022 - Present</span><br>
+<span style="color:gray">September 2022 - November 2022</span><br>
 **[Simulating sequence evolution for in-silico experimentation](../assets/project_reports/simulations_report.pdf)**<br>
 *Carnegie Mellon University, Pittsburgh, USA*
 
-* Developing a simulation of bacterial transcription, translation, fitness, selection and mutation.
+* Developed a simulation of bacterial transcription, translation, fitness, selection and mutation.
 * This is a team project with five members, each responsible for one of the five steps mentioned above.
-* Responsible for the mutation step, where a mutation is programmatically induced at random positions, sampled from a uniform distribution.
-* Responsible for an extended study where mutation rates are optimized according to changes in fitness of bacteria.
+* Responsible for the mutation step, where a mutation is programmatically induced at random positions, sampled from a uniform or binomial distribution.
 
 
 <span style="color:gray">February 2022 - March 2022</span><br>
